@@ -1,6 +1,8 @@
 # Vive Wireless Info Overlay
 A Vive Wireless Adapter temperature monitoring overlay. This is useful if you think your wireless is overheating and you want to see what temperature it's hitting. The wireless outputs two readings mTemperature (mT) and rTemperature (rT) I'm not too sure what theses mean but when my mT was hitting 95 degrees it would crash, but after a fan mod (Thanks Kleus) the temperatures are around 50 degrees and it stopped crashing.
 
+## Now fixed for new Vive Wireless Utility logs location.
+
 ## Usage
 1) Download and Unzip the latest release here: https://github.com/Denwa/vive-wireless-info-overlay/releases
 2) Run ViveWirelessInfo.exe
